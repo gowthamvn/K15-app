@@ -1,0 +1,25 @@
+D:\techapp\platforms\android\ant-build\HelloCordova.ap_ \
+ : D:\techapp\platforms\android\res\drawable\icon.png \
+D:\techapp\platforms\android\res\drawable-hdpi\icon.png \
+D:\techapp\platforms\android\res\drawable-ldpi\icon.png \
+D:\techapp\platforms\android\res\drawable-mdpi\icon.png \
+D:\techapp\platforms\android\res\drawable-xhdpi\icon.png \
+D:\techapp\platforms\android\res\values\strings.xml \
+D:\techapp\platforms\android\res\xml\config.xml \
+D:\techapp\platforms\android\ant-build\res\drawable\icon.png \
+D:\techapp\platforms\android\ant-build\res\drawable-hdpi\icon.png \
+D:\techapp\platforms\android\ant-build\res\drawable-ldpi\icon.png \
+D:\techapp\platforms\android\ant-build\res\drawable-mdpi\icon.png \
+D:\techapp\platforms\android\ant-build\res\drawable-xhdpi\icon.png \
+D:\techapp\platforms\android\assets\www \
+D:\techapp\platforms\android\assets\_where-is-www.txt \
+D:\techapp\platforms\android\assets\www\cordova.js \
+D:\techapp\platforms\android\assets\www\cordova_plugins.js \
+D:\techapp\platforms\android\assets\www\css \
+D:\techapp\platforms\android\assets\www\img \
+D:\techapp\platforms\android\assets\www\index.html \
+D:\techapp\platforms\android\assets\www\js \
+D:\techapp\platforms\android\assets\www\css\index.css \
+D:\techapp\platforms\android\assets\www\img\logo.png \
+D:\techapp\platforms\android\assets\www\js\index.js \
+D:\techapp\platforms\android\ant-build\AndroidManifest.xml \
